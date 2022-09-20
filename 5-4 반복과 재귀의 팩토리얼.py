@@ -1,4 +1,4 @@
-# 5-3 재귀함수를 통한 팩토리얼
+# 5-4 재귀함수를 통한 팩토리얼
 import time
 # start_time = time.time()
 
