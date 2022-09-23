@@ -1,4 +1,4 @@
-# 6-7 성적이 낮은 순서로 학생 출력
+# 6-8 성적이 낮은 순서로 학생 출력
 import time
 start_time = time.time()
 
