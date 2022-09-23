@@ -1,4 +1,4 @@
-# 6-3 퀵 정렬 개선
+# 6-4 퀵 정렬 개선
 import time
 start_time = time.time()
 
