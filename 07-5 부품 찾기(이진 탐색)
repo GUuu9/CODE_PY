@@ -1,4 +1,4 @@
-# 7-5 부품 찾기
+# 7-5 부품 찾기(이진 탐색)
 import time
 start_time = time.time()
 
