@@ -1,4 +1,4 @@
-# 8-7 바닥 공사
+# 8-8 효율적인 화폐 구성
 import time
 start_time = time.time()
 
